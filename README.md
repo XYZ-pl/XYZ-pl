@@ -1,60 +1,113 @@
-<h1 align="center">👋 Cześć, jestem Michał</h1>
-<h3 align="center">Początkujący programista | Java • JavaScript • HTML • CSS • Python</h3>
+```md
+<div align="center">
+
+<img src="assets/banner.png" alt="XYZ Banner" width="100%" />
+
+---
+
+# 👋 Hi, I'm X Y Z
+
+### 🚀 Beginner Developer | Java • JavaScript • HTML • CSS • Python
+
+**Code. Build. Learn. Improve.**
+
+</div>
 
 ---
 
 ## ✨ About Me
 
-Cześć! Jestem początkującym programistą, który rozwija swoje umiejętności w tworzeniu stron internetowych i programowaniu.  
-Lubię uczyć się nowych technologii, tworzyć własne projekty i krok po kroku rozwijać się jako developer.
+Hello! I'm **X Y Z**, a beginner programmer who is learning how to build websites, applications, and simple programming projects.
 
-Mój aktualny focus to:
-- tworzenie stron internetowych,
-- nauka programowania,
-- rozwijanie logicznego myślenia,
-- budowanie własnych projektów,
-- praca z GitHub.
+I enjoy discovering new technologies, writing clean code, and improving my skills step by step.  
+My main goal is to become better every day and create projects that show my progress as a developer.
 
 ---
 
 ## 🛠️ Tech & Tools
 
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-Aktualnie uczę się i rozwijam w takich obszarach jak:
+I am currently focusing on:
 
-- Java
-- JavaScript
-- HTML & CSS
-- Python
-- Git & GitHub
-
----
-
-## 🎯 Goals
-
-Moim celem jest rozwijanie umiejętności programistycznych, tworzenie coraz lepszych projektów i zdobywanie doświadczenia w świecie programowania.
+- 🌐 Building websites with **HTML, CSS and JavaScript**
+- ☕ Learning programming basics with **Java**
+- 🐍 Creating simple scripts and programs in **Python**
+- 🧠 Improving my logic and problem-solving skills
+- 🔧 Learning how to use **Git and GitHub**
 
 ---
 
-## 🚀 My GitHub Journey
+## 🚀 My Goals
 
-Na moim profilu znajdziesz projekty związane z:
-- nauką programowania,
-- stronami internetowymi,
-- prostymi aplikacjami,
-- ćwiczeniami i eksperymentami z kodem.
+My main goals are:
+
+- create more projects,
+- write better and cleaner code,
+- learn frontend development,
+- understand programming fundamentals,
+- build a nice GitHub portfolio,
+- become a better developer step by step.
 
 ---
 
-## 📫 Contact
+## 📌 What You Can Find Here
 
-Jeśli chcesz, możesz mnie obserwować i sprawdzać moje postępy tutaj na GitHubie 😄
+On my GitHub profile you can find:
+
+- small programming projects,
+- websites and frontend experiments,
+- Java exercises,
+- Python scripts,
+- HTML and CSS layouts,
+- projects created while learning.
+
+Every repository is a part of my programming journey.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![XYZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=TWÓJ_LOGIN_GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TWÓJ_LOGIN_GITHUB&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Developer Mindset
+
+> Every line of code is a step forward.
+
+I know that learning programming takes time, practice, and patience.  
+That is why I try to code regularly, build projects, fix mistakes, and keep improving.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+**Follow my journey and check out my projects.**
+
+</div>
+```
