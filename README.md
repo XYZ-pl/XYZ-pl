@@ -85,9 +85,9 @@ Every repository is a part of my programming journey.
 
 <div align="center">
 
-![XYZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=TWÓJ_LOGIN_GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
+![XYZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=XYZ-pl&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TWÓJ_LOGIN_GITHUB&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XYZ-pl&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
