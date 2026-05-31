@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="assets/banner.png" alt="XYZ Banner" width="100%" />
@@ -128,4 +127,3 @@ That is why I try to code regularly, build projects, fix mistakes, and keep impr
 **Follow my journey and check out my projects.**
 
 </div>
-```
