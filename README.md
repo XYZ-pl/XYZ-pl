@@ -81,27 +81,13 @@ Every repository is a part of my programming journey.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Info
 
 <div align="center">
 
-<a href="https://github.com/XYZ-pl">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=XYZ-pl&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e&border_radius=10" 
-    alt="XYZ GitHub Stats" 
-    height="170"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/XYZ-pl">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=XYZ-pl&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_radius=10" 
-    alt="Top Languages" 
-    height="170"
-  />
-</a>
+![GitHub followers](https://img.shields.io/github/followers/XYZ-pl?style=for-the-badge&logo=github&color=gray)
+![GitHub stars](https://img.shields.io/github/stars/XYZ-pl?style=for-the-badge&logo=github&color=gray)
+![Profile views](https://komarev.com/ghpvc/?username=XYZ-pl&style=for-the-badge&color=gray)
 
 </div>
 
